@@ -33,7 +33,17 @@
 </p>
 
 <h2 align="left">❤️ Let's Connect</h2>
- 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_r9fh?t=0lJJ1J8jzmtP9kq_0gt0_A&s=09)  
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/17i1fx9hGM/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_r9fh/)  
+
+<a href="https://www.instagram.com/_r9fh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://x.com/_r9fh?t=0lJJ1J8jzmtP9kq_0gt0_A&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="X">
+</a>
+
+<a href="https://www.facebook.com/share/17i1fx9hGM/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%233b5998.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+
