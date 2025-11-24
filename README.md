@@ -29,7 +29,7 @@
   
 
 </p>
-<h2 align="left">Technologies I Use</h2>
+<h2 align="left">Technologies I Use 💻</h2>
 <p align="center">
 
   
@@ -39,14 +39,14 @@
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg' width='30'/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 
-<h2 align="left"> Follow me and let's get in touch ❤️ </h2>
+<h2 align="left">🤝 Let's Connect and Collaborate ❤️</h2>
 
 <a href="https://www.instagram.com/_r9fh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://x.com/_r9fh?t=0lJJ1J8jzmtP9kq_0gt0_A&s=09" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X">
 </a>
 
 <a href="https://www.facebook.com/share/17i1fx9hGM/" target="_blank">
