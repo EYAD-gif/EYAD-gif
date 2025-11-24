@@ -7,7 +7,7 @@
   </abc>
 </h2>
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+<h2 align="left">🙋🏻‍♂️ About Me</h2>
 
 - 🌐 Full-Stack Web Developer  
 - 🎓 University Student & Continuous Learner  
@@ -26,17 +26,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  
 
 </p>
 <h2 align="left">Technologies I Use</h2>
-<p align="center"
+<p align="center">
+
   
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg' width='30'/> 
+
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='30'/> 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='30'/> 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg' width='30'/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 
 <h2 align="left"> Follow me and let's get in touch ❤️ </h2>
 
