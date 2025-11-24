@@ -1,6 +1,6 @@
 <h2 align="center">
   <abc>
-    <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+    <br>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     <br>I'm EYAD AL-Masajedi — Web Developer & Software Developer 👨🏻‍💻<br>
     <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -26,13 +26,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 
 </p>
+<h2 align="left">Technologies I Use</h2>
+<p align="center"
+  
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg' width='30'/> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='30'/> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='30'/> 
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg' width='30'/>
 
-<h2 align="left">❤️ Let's Connect</h2>
+
+<h2 align="left"> Follow me and let's get in touch ❤️ </h2>
 
 <a href="https://www.instagram.com/_r9fh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
