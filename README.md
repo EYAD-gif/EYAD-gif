@@ -7,38 +7,34 @@
   </abc>
 </h2>
 
-<h2 align="left">🛠️ Technologies & Tools I Use</h2>
-<p align="left">
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-    <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-</p>
-
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
 - 🌐 Full-Stack Web Developer  
-- 🎓 University Student & Lifetime Learner  
-- 🔒 Cybersecurity Enthusiast (Reverse Engineering & Malware Analysis)  
-- 🚀 Love building tools, automations, and experimenting with new tech  
-- ☁️ Exploring Cloud Platforms (GCP & Azure)  
-- 🤝 Open to collaborations & dev experiments  
-- ⚡ Fun fact: I enjoy deep-dive debugging and code optimization
+- 🎓 University Student & Continuous Learner  
+- 🔒 Cybersecurity & Reverse Engineering Enthusiast  
+- 🤝 Open to collaborations and unique development experiments  
+- ⚡ I enjoy deep debugging and code optimization
+
+<h2 align="left">🛠️ Languages & Technologies I Use</h2>
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
+</p>
 
 <h2 align="left">❤️ Let's Connect</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINK)  
-[![Twitter Badge](https://img.shields.io/badge/-YourTwitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](YOUR_LINK)  
-[![Instagram Badge](https://img.shields.io/badge/-YourInstagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](YOUR_LINK)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square)](YOUR_LINK)
+ 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_r9fh?t=0lJJ1J8jzmtP9kq_0gt0_A&s=09)  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/17i1fx9hGM/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_r9fh/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square)](https://eyad-portfolio-link.com/)
